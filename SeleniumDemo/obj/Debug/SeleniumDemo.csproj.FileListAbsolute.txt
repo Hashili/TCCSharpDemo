@@ -12,7 +12,6 @@ C:\Users\habdul\source\repos\SeleniumDemo\SeleniumDemo\bin\Debug\nunit.framework
 C:\Users\habdul\source\repos\SeleniumDemo\SeleniumDemo\bin\Debug\nunit.framework.xml
 C:\Users\habdul\source\repos\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.xml
 C:\Users\habdul\source\repos\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.Support.xml
-C:\Users\habdul\source\repos\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.csprojAssemblyReference.cache
 C:\Users\habdul\source\repos\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.csproj.CoreCompileInputs.cache
 C:\Users\habdul\source\repos\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.csproj.CopyComplete
 C:\Users\habdul\source\repos\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.exe
