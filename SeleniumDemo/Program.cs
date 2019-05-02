@@ -31,8 +31,8 @@ namespace SeleniumDemo
         [Test]
         public void TestOne()
         {
-            driver.FindElement(By.Name("UserName")).SendKeys("SomeUserName");
-            driver.FindElement(By.Name("Password")).SendKeys("Password");
+            driver.FindElement(By.Name("UserName")).SendKeys("FromCsharpProj");
+            driver.FindElement(By.Name("Password")).SendKeys("FromCsharpProj");
             driver.FindElement(By.XPath("//input[@name='Login']")).Click();
             Console.WriteLine("Logged User In!");
             new SelectElement(driver.FindElement(By.Id("TitleId"))).SelectByText("Ms.");
